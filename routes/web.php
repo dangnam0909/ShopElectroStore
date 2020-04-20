@@ -6,14 +6,7 @@ Route::get('setlocale/{locale}', function ($locale) {
     }
     return redirect()->back();
 });
-//Route::post('/language', array(
-//    'Middleware'=>'LanguageController',
-//    'uses'=>'LanguageController@index'
-//));
-//Route::group(['middleware' => 'locale'], function() {
-//   Route::get('change-language/{language}', 'HomeController@changeLanguage')
-//       ->name('user.change-language');
-//});
+
 // Trang chu
 Route::get('/', 'HomeController@index');
 Route::view('/admin/login', 'admin.pages.login')->name('admin.getLogin');
