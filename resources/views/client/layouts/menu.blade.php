@@ -1,4 +1,4 @@
-<div class="navbar-inner">
+ <div class="navbar-inner">
     <div class="container">
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="agileits-navi_search">

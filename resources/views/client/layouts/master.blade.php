@@ -54,7 +54,7 @@
 			<select class="list_of_cities">
 				<optgroup label="Popular Cities">
 					<option selected style="display:none;color:#eee;">Select City</option>
-					<option>Birmingham</option>
+					<option>Da Nang</option>
 				</optgroup>
 			</select>
 			<div class="clearfix"></div>
