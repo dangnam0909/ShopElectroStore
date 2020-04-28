@@ -106,16 +106,16 @@
                         <li class="mb-3">
                             <i class="fas fa-map-marker"></i> 123 Sebastian, USA.</li>
                         <li class="mb-3">
-                            <i class="fas fa-mobile"></i> 333 222 3333 </li>
+                            <i class="fas fa-mobile"></i> +0967 632 313 </li>
                         <li class="mb-3">
-                            <i class="fas fa-phone"></i> +222 11 4444 </li>
+                            <i class="fas fa-phone"></i> +0902 438 246 </li>
                         <li class="mb-3">
                             <i class="fas fa-envelope-open"></i>
-                            <a href="mailto:example@mail.com"> mail 1@example.com</a>
+                            <a href="mailto:example@mail.com"> namdangnguyen09@gmail.com</a>
                         </li>
                         <li>
                             <i class="fas fa-envelope-open"></i>
-                            <a href="mailto:example@mail.com"> mail 2@example.com</a>
+                            <a href="mailto:example@mail.com"> namnd@nitrotech.com</a>
                         </li>
                     </ul>
                 </div>
