@@ -3,14 +3,12 @@
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="agileits-navi_search">
                 <form action="#" method="post">
-
                     <select id="agileinfo-nav_search" name="agileinfo_search" class="border" required="">
                         <option value="">All Categories</option>
                         @foreach ($category as $cat)
                             <option value="{{ $cat->id }}">{{ $cat->name }}</option>
                         @endforeach
                     </select>
-
                 </form>
             </div>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"

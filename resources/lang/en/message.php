@@ -46,5 +46,7 @@ return [
     'errorPage' => 'Sorry you do not have permission to access this page',
     'again' => 'Again',
     'errorAccess' => 'Sorry, your access was denied due to server security and our sensitive data.',
-    'pleaseAgain' => 'Please return to the previous page to continue.'
+    'pleaseAgain' => 'Please return to the previous page to continue.',
+    'accessDeniedPermission' => 'Access denied, you do not have permission to access this page',
+    'accessDeniedLogin' => 'Access denied, please login'
 ];

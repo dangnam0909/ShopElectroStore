@@ -7,9 +7,9 @@ return [
     'register' => 'Đăng ký',
     'loginSystem' => 'Đăng nhập hệ thống',
     'contact' => 'Liên hệ',
-    'account' => 'tài khoản',
-    'password' => 'mật khẩu',
-    'loginFB' => 'Đăng nhập ằng Facebook',
+    'account' => 'Tài khoản',
+    'password' => 'Mật khẩu',
+    'loginFB' => 'Đăng nhập bằng Facebook',
     'yourPW' => 'Bạn chưa đăng nhập',
     'registerNow' => 'Đăng ký ngay',
     'confirmPW' => 'Nhập lại mật khẩu',
@@ -38,7 +38,7 @@ return [
     'category' => 'Danh mục sản phẩm',
     'productType' => 'Loại sản phẩm',
     'search' => 'Tìm kiếm',
-    'electroStore' => 'Electro store',
+    'electroStore' => 'Cửa Hàng Điện Tử',
     'nguyenVanA' => 'Nguyễn văn A',
     'acceptTheTerms' => 'Tôi chấp nhận các điều khoản và điều kiện',
     'errorPage' => 'Xin lỗi bạn không có quyền truy cập vào trang này',
@@ -46,5 +46,7 @@ return [
     'sorry' => 'Xin lỗi',
     'again' =>'Quay lại',
     'errorAccess' => 'Xin lỗi, quyền truy cập của bạn bị từ chối vì lý do bảo mật của máy chủ và dữ liệu nhạy cảm của chúng tôi.',
-    'pleaseAgain' => 'Vui lòng quay lại trang trước để tiếp tục.'
+    'pleaseAgain' => 'Vui lòng quay lại trang trước để tiếp tục.',
+    'accessDeniedPermission' => 'Truy cập bị từ chối, bạn không có quyền vào trang này',
+    'accessDeniedLogin' => 'Truy cập bị từ chối, vui lòng đăng nhập'
 ];

@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <div class="row main-top-w3l py-2">
             <div class="col-lg-4 header-most-top">
-                <p class="text-white text-lg-left text-center">Offer Zone Top Deals & Discounts
+                <p class="text-white text-lg-left text-center"> Offer Zone Top Deals & Discounts
                     <i class="fas fa-shopping-cart ml-1"></i>
                 </p>
             </div>
@@ -15,7 +15,7 @@
                     </li>
                     <li class="text-center border-right text-white">
                         <a href="#" data-toggle="modal" data-target="#exampleModal" class="text-white">
-                            <i class="fas fa-truck mr-2"></i>Track Order</a>
+                            <i class="fas fa-truck mr-2"></i> Track Order </a>
                     </li>
                     <li class="text-center border-right text-white">
                         <i class="fas fa-phone mr-2"></i> 0902 438 246
@@ -34,7 +34,7 @@
                         </li>
                         <li class="text-center text-white">
                             <a href="#" data-toggle="modal" data-target="#exampleModal2" class="text-white">
-                                <i class="fas fa-sign-out-alt mr-2"></i>Đăng ký </a>
+                                <i class="fas fa-sign-out-alt mr-2"></i> Đăng ký </a>
                         </li>
                     @endif
                 </ul>
