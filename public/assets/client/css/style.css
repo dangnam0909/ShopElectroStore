@@ -3196,4 +3196,25 @@ div#testimonials h4.m-title {
     }
 }
 
+@media (min-width: 70em) {
+    .hero_bg {
+        top: 50%;
+        left: 32%;
+        -webkit-transform: translateY(-50%);
+        transform: translateY(-50%);
+    }
+}
+@media (min-width: 48em){
+    .hero_bg {
+        display: block;
+        position: absolute;
+        z-index: -1;
+        top: 0;
+        left: 40%;
+        width: 100%;
+    }
+}
+.hero_bg {
+    display: none;
+}
 /*--//responsive--*/
